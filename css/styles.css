@@ -1,0 +1,93 @@
+.sidebar {
+  float: left;
+  width: 300px;
+  margin: 20px;
+  border-style: groove;
+  border-color: white;
+  border-radius: 15px;
+  opacity: 0.6;
+  background-color: purple;
+}
+
+h1 {
+  color: purple;
+}
+
+
+
+body {
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.concerts {
+  border-style: groove;
+  border-color: white;
+  border-radius: 15px;
+  opacity: 0.6;
+  background-color: purple;
+  margin: 20px;
+  float: left;
+}
+
+.concerts::after {
+
+/* content: "";
+height: 100px;
+width: 100px;
+border: 1px solid red */
+}
+
+.bio {
+  opacity: 0.6;
+  background-color: purple;
+  border-style: groove;
+  border-color: white;
+  width: 500px;
+  float: left;
+  margin: 20px;
+  border-radius: 15px;
+}
+.concerts ul li {
+  font-weight: 300;
+}
+.concerts p {
+  font-weight: 300;
+}
+.concerts h2 {
+  font-weight: 300;
+}s
+.bio h2{
+  font-weight: 300;
+}
+.bio p {
+  font-weight: 300;
+}
+.sidebar p {
+  font-weight: 300;
+  }
+.pictures {
+  width: 300px;
+  height: 200px;
+  border-radius: 15px;
+  border-style: groove;
+
+}
+h3 {
+  opacity: 0.6;
+  background-color: purple;
+  border-style: groove;
+  border-color: white;
+  width: 500px;
+  float: left;
+  margin: 20px;
+  border-radius: 15px;
+  border-style: groove;
+  font-weight: 300;
+
+}
